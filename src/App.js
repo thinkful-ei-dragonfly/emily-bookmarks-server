@@ -97,3 +97,5 @@ class App extends Component {
 }
 
 export default App;
+
+console.log('hello')
